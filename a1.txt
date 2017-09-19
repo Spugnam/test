@@ -1,1 +1,3 @@
 new file a1
+my string
+another edition
